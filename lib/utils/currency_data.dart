@@ -20,9 +20,9 @@ class CurrencyData {
     Currency(code: 'CNY', name: 'Chinese Yuan', symbol: '¥', rateToUSD: 6.45),
     Currency(code: 'INR', name: 'Indian Rupee', symbol: '₹', rateToUSD: 74.5),
     
-    // Lebanese Pound has very high rate due to economic situation
+    // Lebanese Pound has very high rate due to economic situation bya3rif
     Currency(code: 'LBP', name: 'Lebanese Pound', symbol: 'ل.ل', rateToUSD: 89500.0),
-    
+    // kmrel chris
     Currency(code: 'NOK', name: 'Norwegian Krone', symbol: 'kr', rateToUSD: 10.23),
   ];
 
